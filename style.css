@@ -65,5 +65,20 @@ position: relative;
     text-align: center;
     padding: 20px 0;
     box-shadow: 0px 0px 7px 2px grey;
-    color: white
+    color: white;
+    margin-bottom: 40px;
+
+}
+
+.card h3 {
+    margin-top: 10px;
+    margin-top: 0;
+}
+#card-holder {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    align-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
